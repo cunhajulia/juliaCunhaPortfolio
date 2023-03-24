@@ -25,16 +25,16 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 	
-
+h1{
+	font-family: 'Inter Tight'; 
+}
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 body {
 	line-height: 1;
-
 }
-
 ol, ul {
 	list-style: none;
 }
@@ -6482,7 +6482,7 @@ input, select, textarea {
 			-ms-justify-content: inherit;
 			justify-content: inherit;
 		}
-
+	
 		.gallery.style1 article {
 			overflow: hidden;
 			position: relative;
