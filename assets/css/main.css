@@ -28,6 +28,11 @@ section, summary, time, mark, audio, video {
 h1{
 	font-family: 'Inter Tight'; 
 }
+
+.gallery article .image img {
+  height: 250px;
+}
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
